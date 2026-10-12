@@ -31,7 +31,7 @@ Evaluating SME credit risk is a critical challenge for financial institutions du
 ## 📂 Project Structure
 ```text
 ├── sme_data.csv.csv      # SME Financial Dataset
-├── train.py             # Script to train the ML model and save model.pkl
-├── model.pkl            # Trained Random Forest Model
-├── app22.py               # Streamlit UI Application
-└── README.md            # Project Documentation
+├── train.py              # Script to train the ML model and save model.pkl
+├── model.pkl             # Trained Random Forest Model
+├── app22.py              # Streamlit UI Application
+                          # Project Documentation
