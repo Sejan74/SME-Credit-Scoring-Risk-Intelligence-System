@@ -26,7 +26,8 @@ Evaluating SME credit risk is a critical challenge for financial institutions du
 * **Web Framework:** Streamlit
 
 ---
-
+## Interface Preview
+[![SME Credit Scoring App Interface](https://github.com/Sejan74/SME-Credit-Scoring-Risk-Intelligence-System/blob/main/screencapture-localhost-8501-2026-10-13-01_48_27.png?raw=true)
 ## 📂 Project Structure
 ```text
 ├── sme_data.csv.csv      # SME Financial Dataset
